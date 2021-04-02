@@ -36,7 +36,7 @@ class HomeCores extends StatelessWidget {
               Color(0xfff6d76c),
             ),
             paleta(
-              Colors.red,
+              Colors.blue,
             ),
           ],
         ),
