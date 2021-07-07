@@ -18,25 +18,25 @@ class HomeCores extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             paleta(
-              Color(0xff7a7a7a),
+              Color(0xff02733e),
             ),
             paleta(
-              Color(0xff968c8e),
+              Color(0xff568c73),
             ),
             paleta(
-              Color(0xff413d3e),
+              Color(0xff03a63c),
             ),
             paleta(
-              Color(0xff141313),
+              Color(0xff737373),
             ),
             paleta(
-              Color(0xfffdf3d0),
+              Color(0xff0d0d0d),
             ),
             paleta(
-              Color(0xfff6d76c),
+              Color(0xffd9a76a),
             ),
             paleta(
-              Colors.blue,
+              Color(0xff010326),
             ),
           ],
         ),
